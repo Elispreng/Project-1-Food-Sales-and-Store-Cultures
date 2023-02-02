@@ -16,8 +16,8 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- To perform this analysis the data was cleaned and then exploratory and explanatory visuals offer insights
+- Machine learning using regresstion metrics provides another way to understand grocery sales. 
 
 ## Results
 
