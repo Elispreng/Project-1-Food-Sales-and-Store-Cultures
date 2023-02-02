@@ -7,7 +7,7 @@
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Many factors can affect indicidual item sales in a grocery store outlet. This project explores what  factors increase sales. 
 
 
 ### Data:
