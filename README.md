@@ -1,7 +1,7 @@
 # Title that recommends an action
 ## Subtitle describing the analysis 
 
-**Author**: 
+**Eli Spreng**: 
 
 ### Business problem:
 
