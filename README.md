@@ -27,15 +27,15 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 #### Visual 1: Bar Graph Showing Outlet Year and Sales
 ![alt text]()
 
-> Sentence about visualization.
+> The graph addresses what year has the outlet sales. The highest outlet sales were in 2004.
 
 #### Visual 2 Title
 
 ## Model
 
-Describe your final model
+This bar graph shows the year 2004 has the highest MRP
 
-Report the most important metrics
+## Machine learning and metrics
 
 Refer to the metrics to describe how well the model would solve the business problem
 
