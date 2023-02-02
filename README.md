@@ -1,7 +1,7 @@
 ![alt text](https://learn.g2.com/hubfs/shopper%20marketing.jpg)
 
-#Title that recommends an action
-## Subtitle describing the analysis 
+# Data Science and Grocery Sales
+## Anazlyzing Outlet Sales  
 
 **Eli Spreng**: 
 
@@ -11,7 +11,7 @@ Here is where you state the business problem you were trying to solve
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About
 
 
 ## Methods
