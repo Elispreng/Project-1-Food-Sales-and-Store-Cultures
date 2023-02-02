@@ -7,7 +7,8 @@
 
 ### Business problem:
 
-Many factors can affect indicidual item sales in a grocery store outlet. This project explores what  factors increase sales. 
+In looking at grocery sales, interested parties want to know what will will increase sales. This project analyzes what factors have the greatest impact on 
+grocery outlet sales.
 
 
 ### Data:
