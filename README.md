@@ -21,9 +21,6 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
 #### Visual 1: Bar Graph Showing Outlet Year and Sales
 ![alt text](https://github.com/Elispreng/Project-1-Food-Sales-and-Store-Cultures/blob/main/Spreng%20Outlet%20Year%20and%20Sales.png)
 
@@ -37,8 +34,9 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 This bar graph shows the year 2004 has the highest MRP
 
 ## Machine learning and metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+- Linear Regression Model
+- Regression Tree Model
+- Bagged Trees Model
 
 ## Recommendations:
 
