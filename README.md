@@ -43,10 +43,10 @@ Model Training R2: 0.6714424977432687
 Model Testing R2: 2.0994337117833997e-05
 
 + Decision Tree Model Train Scores
-* MAE: 0.0 
-* MSE: 0.0 
-* RMSE: 0.0 
-* R2: 1.0
+..* MAE: 0.0 
+..* MSE: 0.0 
+..* RMSE: 0.0 
+..* R2: 1.0
 
 + Decision Tree Model Test Scores
 MAE: 992.5956 
