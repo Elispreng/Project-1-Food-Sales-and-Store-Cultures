@@ -38,17 +38,17 @@ This bar graph shows the year 2004 has the highest MRP
 - Regression Tree Model
 - Bagged Trees Model
 
-Linear Regression Metrics:
++ Linear Regression Metrics:
 Model Training R2: 0.6714424977432687
 Model Testing R2: 2.0994337117833997e-05
 
-Decision Tree Model Train Scores
-MAE: 0.0 
-MSE: 0.0 
-RMSE: 0.0 
-R2: 1.0
++ Decision Tree Model Train Scores
+* MAE: 0.0 
+* MSE: 0.0 
+* RMSE: 0.0 
+* R2: 1.0
 
-Decision Tree Model Test Scores
++ Decision Tree Model Test Scores
 MAE: 992.5956 
 MSE: 2103175.4804 
 RMSE: 1450.2329 
