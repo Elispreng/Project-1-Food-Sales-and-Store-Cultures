@@ -29,9 +29,10 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 
 > The graph addresses what year has the outlet sales. The highest outlet sales were in 2004.
 
-#### Visual 2 Title
+#### Visual 2 Bar  Graph Showing Outlet Year and MRP
 
-## Model
+![alt text](https://github.com/Elispreng/Project-1-Food-Sales-and-Store-Cultures/blob/main/Spreng%20Outlet%20Year%20and%20MRP.png)
+
 
 This bar graph shows the year 2004 has the highest MRP
 
