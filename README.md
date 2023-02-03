@@ -25,7 +25,7 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 
 
 #### Visual 1: Bar Graph Showing Outlet Year and Sales
-![alt text](Spreng Outlet Year and Sales.png)
+![alt text](https://github.com/Elispreng/Project-1-Food-Sales-and-Store-Cultures/blob/main/Spreng%20Outlet%20Year%20and%20Sales.png)
 
 > The graph addresses what year has the outlet sales. The highest outlet sales were in 2004.
 
@@ -53,4 +53,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **doctor.eemail@gmail.com**
