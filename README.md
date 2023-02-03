@@ -38,10 +38,37 @@ This bar graph shows the year 2004 has the highest MRP
 - Regression Tree Model
 - Bagged Trees Model
 
+Linear Regression Metrics:
+Model Training R2: 0.6714424977432687
+Model Testing R2: 2.0994337117833997e-05
+
+Decision Tree Model Train Scores
+MAE: 0.0 
+MSE: 0.0 
+RMSE: 0.0 
+R2: 1.0
+
+Decision Tree Model Test Scores
+MAE: 992.5956 
+MSE: 2103175.4804 
+RMSE: 1450.2329 
+R2: 0.2376974
+
+Bagged Trees Model Train Scores
+MAE: 316.5676 
+MSE: 240010.0091 
+RMSE: 489.9082 
+R2: 0.9189006
+
+Bagged Trees Model Test Scores
+MAE: 785.6302 
+MSE: 1279423.2806 
+RMSE: 1131.1159 
+R2: 0.536269
+
 ## Recommendations:
 
-More of your own text here
-
+From these metrics, this project can predict the outlet prices with 53% accuracy. 
 
 ## Limitations & Next Steps
 
