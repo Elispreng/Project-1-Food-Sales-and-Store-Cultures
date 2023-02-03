@@ -72,8 +72,7 @@ From these metrics, this project can predict the outlet prices with 53% accuracy
 
 ## Limitations & Next Steps
 
-More of your own text here
-
+This project will include more graphics. Another limitation is the regression metrics still need tuning in the models. 
 
 ### For further information
 
