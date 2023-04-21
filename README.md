@@ -1,7 +1,7 @@
 ![alt text](https://learn.g2.com/hubfs/shopper%20marketing.jpg)
 
 # Data Science and Grocery Sales
-## Anazlyzing Outlet Sales  
+## Analyzing Outlet Sales  
 
 **Eli Spreng**: 
 
