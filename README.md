@@ -1,8 +1,8 @@
 ![alt text](https://learn.g2.com/hubfs/shopper%20marketing.jpg)
 
 # Data Science and Grocery Sales
-## Analyzing Outlet Sales  
-
+## Analyzing Outlet Sales 
+** Archived**
 **Eli Spreng**: 
 
 ### Business problem:
